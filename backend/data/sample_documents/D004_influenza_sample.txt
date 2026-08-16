@@ -1,0 +1,13 @@
+[SAMPLE DATA FOR DEVELOPMENT AND TESTING ONLY — NOT AN OFFICIAL CDC DOCUMENT]
+
+Seasonal influenza (flu) is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness and can lead to hospitalization and death, especially among older adults, young children, pregnant people, and those with chronic health conditions.
+
+Symptoms of influenza often include fever or feeling feverish/chills, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, and fatigue. Some people may have vomiting and diarrhea, though this is more common in children. Flu symptoms usually begin 1–4 days after exposure.
+
+Transmission of flu viruses occurs mainly through droplets when people with flu cough, sneeze, or talk. People may also get flu by touching a surface with flu virus on it and then touching their mouth, nose, or eyes. Infected people can spread flu from about one day before symptoms appear until several days after becoming sick.
+
+Prevention measures include annual influenza vaccination as recommended by public health authorities, staying home when sick, covering coughs and sneezes, frequent handwashing, and avoiding close contact with sick individuals. In healthcare settings, additional infection control precautions apply.
+
+Treatment for uncomplicated influenza may include rest, fluids, and antiviral medications if prescribed early by a healthcare provider based on clinical assessment. Antivirals work best when started within 48 hours of symptom onset. Antibiotics do not treat viral influenza.
+
+Outbreaks and elevated flu activity are monitored through surveillance systems during flu season. This sample excerpt supports the PublicHealth-AI prototype and is not a substitute for official CDC guidance.

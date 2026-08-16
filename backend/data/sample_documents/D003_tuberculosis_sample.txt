@@ -1,0 +1,13 @@
+[SAMPLE DATA FOR DEVELOPMENT AND TESTING ONLY — NOT AN OFFICIAL WHO DOCUMENT]
+
+Tuberculosis (TB) is an infectious disease caused by Mycobacterium tuberculosis bacteria. TB most commonly affects the lungs (pulmonary TB) but can also affect other parts of the body.
+
+Symptoms of active pulmonary TB include a persistent cough lasting more than two weeks, sometimes with blood in sputum, chest pain, weakness or fatigue, weight loss, fever, and night sweats. Some people with TB infection have no symptoms (latent TB) and are not contagious until the disease becomes active.
+
+Transmission of TB occurs through the air when a person with pulmonary TB coughs, sneezes, or speaks, releasing infectious droplets. Close and prolonged contact in poorly ventilated spaces increases transmission risk. TB is not spread by sharing utensils, shaking hands, or casual contact.
+
+Prevention includes early detection and treatment of active cases, contact tracing, BCG vaccination in countries where it is part of national policy, improving ventilation in healthcare and community settings, and infection control measures for healthcare workers.
+
+Treatment for drug-susceptible TB typically requires a combination of antibiotics taken for at least six months under directly observed therapy (DOT) programs to ensure adherence and reduce drug resistance. Multidrug-resistant TB requires longer treatment with second-line medications under specialist supervision.
+
+Public health programs emphasize completing the full course of treatment, supporting patients to prevent default, and surveillance for drug-resistant strains. This sample text is intended for university mid-evaluation testing only.

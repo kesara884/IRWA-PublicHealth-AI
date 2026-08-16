@@ -1,0 +1,13 @@
+[SAMPLE DATA FOR DEVELOPMENT AND TESTING ONLY — NOT AN OFFICIAL WHO DOCUMENT]
+
+COVID-19 is the disease caused by the SARS-CoV-2 coronavirus. Most people infected experience mild to moderate respiratory illness and recover without special treatment. However, some become seriously ill and require medical attention. Older adults and those with underlying medical conditions are at higher risk of severe disease.
+
+Common symptoms include fever, cough, tiredness, loss of taste or smell, sore throat, headache, body aches, and shortness of breath. Severe symptoms such as difficulty breathing, chest pain, confusion, or persistent high fever require urgent medical care.
+
+COVID-19 spreads primarily through respiratory droplets and aerosols when an infected person breathes, talks, coughs, or sneezes. It can also spread in poorly ventilated or crowded indoor settings. People can be contagious before symptoms appear.
+
+Prevention strategies recommended by public health authorities include staying up to date with vaccination, improving indoor ventilation, wearing masks in high-risk settings when advised, practicing hand hygiene, staying home when sick, and following local outbreak guidance during surges.
+
+Treatment depends on severity and clinical assessment. Mild cases may be managed with rest and hydration at home with monitoring. Severe cases may require hospital care including oxygen support. Public health systems track variants and outbreak trends through surveillance.
+
+This sample document is for development and mid-evaluation demonstration of retrieval-grounded public health information systems. Replace with official WHO or national ministry documents for production use.

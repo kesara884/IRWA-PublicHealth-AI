@@ -1,0 +1,17 @@
+[SAMPLE DATA FOR DEVELOPMENT AND TESTING ONLY — NOT AN OFFICIAL GOVERNMENT DOCUMENT]
+
+General public health prevention principles apply across many communicable diseases. These principles support community resilience and reduce the burden on healthcare systems during outbreaks.
+
+Hand hygiene with soap and clean water, or alcohol-based hand rub when soap is unavailable, reduces transmission of many pathogens. Handwashing is especially important before eating, after using the toilet, after coughing or sneezing, and when caring for sick individuals.
+
+Respiratory etiquette includes covering the mouth and nose with a tissue or bent elbow when coughing or sneezing, disposing of tissues safely, and washing hands afterward. Masks may be recommended during respiratory disease outbreaks according to local public health guidance.
+
+Safe water, sanitation, and hygiene (WASH) prevent waterborne and fecal-oral diseases. Communities should use safely managed drinking water, proper waste disposal, and food safety practices including cooking food thoroughly and avoiding cross-contamination.
+
+Vector control reduces diseases spread by mosquitoes and other vectors. This includes eliminating standing water, using bed nets, applying approved insecticides, and supporting municipal spraying programs where appropriate.
+
+Vaccination according to national immunization schedules protects individuals and communities through herd immunity. Public health agencies monitor vaccine coverage and respond to vaccine-preventable disease outbreaks.
+
+Health promotion and risk communication help populations understand prevention behaviors, recognize warning signs that require medical care, and avoid misinformation. Schools, workplaces, and community leaders play important roles in outbreak preparedness.
+
+Surveillance, contact tracing, and isolation of contagious individuals remain core public health tools during outbreaks. This sample guidance supports the PublicHealth-AI university project prototype.

@@ -1,0 +1,71 @@
+{
+  "notice": "SAMPLE DATA FOR DEVELOPMENT AND TESTING ONLY. Replace with official WHO/CDC/ministry PDFs for production.",
+  "documents": [
+    {
+      "document_id": "D001",
+      "file_name": "D001_dengue_sample.txt",
+      "source": "WHO (Sample Excerpt)",
+      "title": "Dengue and Severe Dengue — Sample Public Health Summary",
+      "page": 1,
+      "year": 2024,
+      "disease": "Dengue",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+      "is_sample_data": true
+    },
+    {
+      "document_id": "D002",
+      "file_name": "D002_malaria_sample.txt",
+      "source": "WHO (Sample Excerpt)",
+      "title": "Malaria — Sample Public Health Summary",
+      "page": 1,
+      "year": 2024,
+      "disease": "Malaria",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+      "is_sample_data": true
+    },
+    {
+      "document_id": "D003",
+      "file_name": "D003_tuberculosis_sample.txt",
+      "source": "WHO (Sample Excerpt)",
+      "title": "Tuberculosis — Sample Public Health Summary",
+      "page": 1,
+      "year": 2024,
+      "disease": "Tuberculosis",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+      "is_sample_data": true
+    },
+    {
+      "document_id": "D004",
+      "file_name": "D004_influenza_sample.txt",
+      "source": "CDC (Sample Excerpt)",
+      "title": "Seasonal Influenza — Sample Public Health Summary",
+      "page": 1,
+      "year": 2024,
+      "disease": "Influenza",
+      "url": "https://www.cdc.gov/flu/about/index.html",
+      "is_sample_data": true
+    },
+    {
+      "document_id": "D005",
+      "file_name": "D005_covid19_sample.txt",
+      "source": "WHO (Sample Excerpt)",
+      "title": "COVID-19 — Sample Public Health Summary",
+      "page": 1,
+      "year": 2024,
+      "disease": "COVID-19",
+      "url": "https://www.who.int/health-topics/coronavirus",
+      "is_sample_data": true
+    },
+    {
+      "document_id": "D006",
+      "file_name": "D006_general_prevention_sample.txt",
+      "source": "Public Health Agency (Sample Excerpt)",
+      "title": "General Communicable Disease Prevention — Sample Guidance",
+      "page": 1,
+      "year": 2024,
+      "disease": "General Health",
+      "url": "https://www.who.int/health-topics/disease-prevention",
+      "is_sample_data": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[SAMPLE DATA FOR DEVELOPMENT AND TESTING ONLY — NOT AN OFFICIAL WHO DOCUMENT]
+
+Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes. Malaria is preventable and curable with appropriate public health measures and medical care.
+
+Symptoms of malaria usually appear 10–15 days after the infective mosquito bite. Early symptoms include fever, headache, and chills. Symptoms may be mild and difficult to recognize. If untreated, malaria can become severe and lead to complications including anemia, respiratory distress, organ failure, and death.
+
+Transmission of malaria occurs exclusively through the bites of infected Anopheles mosquitoes. The parasites multiply in the liver and then infect red blood cells. Malaria is not spread from person to person like a cold or flu, though it can be transmitted through blood transfusion, sharing needles, or from mother to child during pregnancy in some cases.
+
+Prevention strategies include sleeping under insecticide-treated bed nets, indoor residual spraying, wearing protective clothing, using insect repellent, and taking chemoprevention in areas with high transmission as recommended by public health authorities. Eliminating mosquito breeding sites near homes reduces local transmission risk.
+
+Treatment depends on the type of malaria parasite and severity of illness. WHO-recommended artemisinin-based combination therapies (ACTs) are used for uncomplicated Plasmodium falciparum malaria in many regions. Severe malaria requires urgent hospital treatment with intravenous antimalarials and supportive care.
+
+Outbreak information and surveillance are managed by national malaria control programs. Travelers to endemic areas should consult public health travel guidance before departure. This sample document supports IR/RAG prototype development only and must be replaced with official sources for deployment.

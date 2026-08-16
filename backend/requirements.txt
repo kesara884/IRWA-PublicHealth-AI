@@ -1,0 +1,24 @@
+# PublicHealth-AI — Backend Dependencies
+
+# Web framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.0
+python-multipart==0.0.20
+email-validator>=2.0.0
+
+# Auth & Security (Phase 10)
+pyjwt>=2.8.0
+passlib>=1.7.4
+
+# HTTP client
+httpx==0.28.1
+
+# Environment
+python-dotenv==1.0.1
+
+# Information Retrieval (Phases 3–4) — Python 3.13 compatible
+numpy>=1.26.0
+scikit-learn>=1.5.0
+pypdf==5.1.0

@@ -1,0 +1,15 @@
+[SAMPLE DATA FOR DEVELOPMENT AND TESTING ONLY — NOT AN OFFICIAL WHO DOCUMENT]
+
+Dengue is a viral infection transmitted to humans through the bite of infected mosquitoes, primarily Aedes aegypti and Aedes albopictus. Dengue is found in tropical and sub-tropical climates worldwide, mostly in urban and semi-urban areas.
+
+Symptoms of dengue typically begin 4–10 days after infection and may last 2–7 days. Common symptoms include high fever (40°C/104°F), severe headache, pain behind the eyes, muscle and joint pains, nausea, vomiting, swollen glands, and rash. Many people experience mild or no symptoms.
+
+Warning signs of severe dengue (also called dengue hemorrhagic fever) require urgent medical attention. These warning signs include severe abdominal pain, persistent vomiting, rapid breathing, bleeding gums or nose, fatigue, restlessness, blood in vomit or stool, thirst, pale and cold skin, and a feeling of weakness. Severe dengue can lead to shock, internal bleeding, organ failure, and death if not managed promptly in a hospital.
+
+There is no specific antiviral treatment for dengue. Supportive medical care is recommended based on clinical assessment. Patients should rest, maintain hydration, and avoid self-medication with non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or aspirin, which can increase bleeding risk.
+
+Prevention of dengue focuses on reducing mosquito exposure and controlling mosquito breeding sites. Use insect repellent, wear long-sleeved clothing, install window screens, and eliminate standing water where mosquitoes lay eggs (containers, tires, flower pots). Community programs for vector control are essential during outbreaks.
+
+Transmission occurs when a mosquito bites a person infected with dengue and then bites another person. Dengue cannot spread directly from person to person. Outbreaks often increase during rainy seasons when mosquito populations rise.
+
+Public health guidance emphasizes early recognition of warning signs, prompt referral to healthcare facilities for severe cases, and community education on prevention. This sample text is for university prototype testing only.
